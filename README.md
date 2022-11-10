@@ -1,6 +1,6 @@
 # Screen Recording PPPC Guide
 
-The Screen Recording PPPC Guide is a small script I wrote to guide the users to guide them to give screen recording to their favorite apps, using IBM Notifier (https://github.com/IBM/mac-ibm-notifications). It provides a way to display
+The Screen Recording PPPC Guide is a small script I wrote to guide the users to guide them to give screen recording to their favorite apps, using IBM Notifier (https://github.com/IBM/mac-ibm-notifications). It launches the Security and Privacy system preference in the background in the right pane, and displays a small how-to for the user to help them check the proper authorizations for screen recording.
 
 **IMPORTANT: it's not been adapted yet for macOS Ventura (the screen captures are not adapted for the new System Settings stuff), *however* it should work fine on it (I tested the URL to open the right prefpane and it works fine, you'll have to adapt the screen captures of course).**
 
