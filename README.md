@@ -5,6 +5,7 @@ The Screen Recording PPPC Guide is a small script I wrote to guide the users to 
 ## How to use this?
 
 - Add the contents of the ScreenRecordingPPPCGuide.sh in a Jamf Pro script.
+- Deploy movies through a package, in _/usr/local/screen_recording_tutorial/movies_
 - Create a Jamf Pro policy with the *At login* trigger, frequency set on "Once per computer per user".
 
 Right after the user logs in, the policy is run and the Dialog app will display a few dialogs with videos. Adapt the script with the path and with your own dialog. If you use French, you can use the videos I added, otherwise, feel free to replace them with your own.
